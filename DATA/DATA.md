@@ -1,6 +1,6 @@
 # DATASET-COVID19
 
-The [DATASET-COVID19](https://storage.googleapis.com/covid19-dataset/DATASET-COVID19.zip) used to train and test COVID-RESNET will be downloaded into this folder from Google Cloud Storage during the [covid_resnet.ipynb](/CovidResnet_github.ipynb) execution.
+The [DATASET-COVID19](https://storage.googleapis.com/covid19-dataset/DATASET-COVID19.zip) used to train and test COVID-RESNET will be downloaded into this folder from Google Cloud Storage during the [covid_resnet.ipynb](/covid_resnet.ipynb) execution.
 
 [DATASET-COVID19](https://storage.googleapis.com/covid19-dataset/DATASET-COVID19.zip) was obtained by redistributing the dataset [Chest X-ray(Covid-19 & Pneumonia)](https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia) from Kaggle, which combines the following data sets:
 
